@@ -6,6 +6,9 @@ hero:
   name: "FunBox"
   text: "一个制作有趣、实用小工具的宝库。"
   tagline: ""
+  image:
+    src: /logo.png
+    alt: FunBox
   actions:
     - theme: brand
       text: 开始了解

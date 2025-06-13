@@ -1,6 +1,6 @@
 # Arch-Purge 🧹
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../files/LICENSE)
 
 > 安全清理 Arch Linux 垃圾文件的智能脚本 | 遵循 **「宁可遗漏，绝不误删」** 原则
 

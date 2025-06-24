@@ -15,6 +15,7 @@
 ## 项目列表
 
  - [Arch-Purge 🧹](Arch-Linux/Arch-Purge)（安全清理 Arch Linux 垃圾文件的智能脚本）
+ - [Simple API Benchmark Tool 🚀](Linux/simple-api-benchmark)（一个通过并发curl请求来测试API的性能的Shell脚本）
 
 
 ## 贡献指南

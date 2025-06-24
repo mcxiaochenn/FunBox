@@ -29,7 +29,8 @@ export default defineConfig({
         text: 'Guide',
         items: [
           { text: '开始', link: '/guide/start' },
-          { text: 'Arch-Purge 🧹', link: '/guide/Arch-Linux/Arch-Purge' }
+          { text: 'Arch-Purge 🧹', link: '/guide/Arch-Linux/Arch-Purge' },
+          { text: 'Simple API Benchmark Tool 🚀', link: '/guide/Linux/simple-api-benchmark' }
         ]
       }
     ],

@@ -39,3 +39,6 @@
 - 无责任条款
 
 只需保留 版权声明 和 许可证文件，即可自由使用。
+
+## ⭐Star
+[![Stars](https://github.com/mcxiaochenn/FunBox.svg?variant=adaptive)](https://github.com/mcxiaochenn/FunBox)
